@@ -1,2 +1,2 @@
 # Struktur-Data
-Simulasi Game of Life dan Buku Telepon menggunakan Python
+Mata Kuliah Struktur Data Semester 2
